@@ -6,10 +6,13 @@ Sometimes when you download the chest x-rays from the internet, there's no  text
 
 ### Prerequistites
 - Linux or OSX
-- NVIDIA GPU
+- Titan X or older
 - Python 2.7
 - PyTorch v0.2.0
 - Numpy
+
+#### Or you can directly use the docker
+
 
 ### Getting Started
 ### Installation
