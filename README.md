@@ -26,6 +26,8 @@ source activate py27
 - Clone this repo:
 ```bash
 git clone https://github.com/xinario/chestViewSplit.git
+```
+```
 cd chestViewSplit
 ```
 - Download the trained model from [this link](https://www.kaggle.com/datasets/stevezeyuzhang/chestviewsplit-checkpoint) and put it into folder ./models (mkdir ./models)
