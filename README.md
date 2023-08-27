@@ -12,11 +12,11 @@ Sometimes when you download the chest x-rays from the internet, there's no  text
 - Numpy
 
 #### Or you can directly use the docker
-'''
+```
 docker pull stevezeyuzhang/chestviewsplit:0.2
 
 source activate py27
-'''
+```
 
 
 ### Getting Started
