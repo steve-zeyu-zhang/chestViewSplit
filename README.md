@@ -25,7 +25,7 @@ source activate py27
 - Install [PyTorh](https://github.com/pytorch/pytorch) and the other dependencies
 - Clone this repo:
 ```bash
-git clone https://github.com/xinario/chestViewSplit.git
+git clone https://github.com/steve-zeyu-zhang/chestViewSplit
 ```
 ```
 cd chestViewSplit
