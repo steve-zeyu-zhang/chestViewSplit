@@ -30,7 +30,7 @@ git clone https://github.com/steve-zeyu-zhang/chestViewSplit
 ```
 cd chestViewSplit
 ```
-- Download the trained model from [this link](https://www.kaggle.com/datasets/stevezeyuzhang/chestviewsplit-checkpoint) and put it into folder ./models (mkdir ./models)
+- Download the trained model from [this link](https://github.com/steve-zeyu-zhang/chestViewSplit/releases/download/resnet-50/resnet-50.t7) and put it into folder ./models (mkdir ./models)
 
 ### Classification
 - Make sure all your chest x-rays resides in the same folder, e.g. ./chest_xray and then run the following command (-i specifies the input folder and -o specifies the output folder).
